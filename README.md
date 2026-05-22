@@ -1,5 +1,5 @@
 # Hi, I'm Derraneka 👋🏽
-IAM / Identity Security professional transitioning into cybersecurity-focused identity roles.
+IAM / Identity Security practitioner building hands-on experience through labs, certifications, and identity security projects.
 ## About Me
 - TS/SCI Cleared
 - Air Force Veteran
