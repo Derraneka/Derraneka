@@ -5,7 +5,8 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 - Air Force Veteran
 - M.S. Cybercrime Investigation
 - Based in San Antonio, TX
-- Currently pursuing Okta Professional Certification
+- CompTIA Security+
+- Okta Certified Professional 
 ## Current Focus
 🔐 Okta Identity Management  
 🔐 Microsoft Entra ID  
