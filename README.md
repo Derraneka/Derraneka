@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🇺🇸 **U.S. Air Force veteran** — 10 years, cyber operations
+- **U.S. Air Force veteran** — 10 years, cyber operations
 - 🔐 **TS/SCI cleared**
 - 🎓 **M.S. Cybercrime Investigation** · B.S. Criminal Justice
 - 📍 San Antonio, TX
